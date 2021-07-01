@@ -1,3 +1,3 @@
-const helloWorld = () => {
+const olaMundo = () => {
     console.log("Olá mundo")
 }
